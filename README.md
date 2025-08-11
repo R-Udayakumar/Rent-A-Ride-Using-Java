@@ -13,7 +13,7 @@ Rent-A-Ride is a simple console-based car rental management system designed to h
 ## Installation
 1. Clone the repository
 ```cmd
-git clone https://github.com/yourusername/rent-a-ride.git
+git clone https://github.com/R-Udayakumar/Rent-A-Ride-Using-Java.git
 ```
 2. Navigate to the project folder
 
